@@ -10,7 +10,7 @@ This project is a simple counter app that built with React.
 
 ## Overview
 Live view:
-<u>https://jayyyy123.github.io/counter-app/</u>
+https://jayyyy123.github.io/counter-app/
 
 
 
